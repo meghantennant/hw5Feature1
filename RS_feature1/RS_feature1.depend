@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1475730929 source:c:\users\meghan\documents\1325\rs_feature1\feature1test.cpp
+	"std_lib_facilities.h"
+	"robotpart1.h"
+	"head1.h"
+	"arm1.h"
+	"locomotor1.h"
+	"battery1.h"
+	"torso1.h"
+
+1472268442 c:\users\meghan\documents\1325\rs_feature1\std_lib_facilities.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<vector>
+	<algorithm>
+	<stdexcept>
+	<hash_map>
+	<ext/hash_map>
+	<iomanip>
+
+1475719890 c:\users\meghan\documents\1325\rs_feature1\robotpart1.h
+
+1475721622 c:\users\meghan\documents\1325\rs_feature1\head1.h
+	"robotpart1.h"
+
+1475722303 source:c:\users\meghan\documents\1325\rs_feature1\head1.cpp
+	"std_lib_facilities.h"
+	"head1.h"
+	"robotpart1.h"
+
+1475723586 source:c:\users\meghan\documents\1325\rs_feature1\arm1.cpp
+	"std_lib_facilities.h"
+	"robotpart1.h"
+	"arm1.h"
+
+1475724565 c:\users\meghan\documents\1325\rs_feature1\arm1.h
+
+1475724698 c:\users\meghan\documents\1325\rs_feature1\locomotor1.h
+
+1475724565 source:c:\users\meghan\documents\1325\rs_feature1\locomotor1.cpp
+	"std_lib_facilities.h"
+	"robotpart1.h"
+	"locomotor1.h"
+
+1475726793 source:c:\users\meghan\documents\1325\rs_feature1\battery1.cpp
+	"std_lib_facilities.h"
+	"robotpart1.h"
+	"battery1.h"
+
+1475726774 c:\users\meghan\documents\1325\rs_feature1\battery1.h
+
+1475731332 c:\users\meghan\documents\1325\rs_feature1\torso1.h
+	"head1.h"
+	"arm1.h"
+	"locomotor1.h"
+	"battery1.h"
+
